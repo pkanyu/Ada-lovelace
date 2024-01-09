@@ -134,3 +134,14 @@ a {
     flex-direction: column;
   }
 }
+
+.clicked {
+    border: 3px solid red; /* Add your desired styles here */
+    /* You can include any other styles you want to apply when the image is clicked */
+}
+
+.dark-mode {
+    background-color: #333; /* Add your desired dark mode styles here */
+    color: #fff;
+    /* You can include any other styles you want to apply in dark mode */
+}
